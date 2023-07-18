@@ -21,7 +21,7 @@ RUN add-apt-repository ppa:libretro/stable && \
 	apt-get update && \
 	apt-get install -y retroarch
 
-#Copy the confif files for audio		
+#Copy the files for audio and NGINX
 COPY default.pa client.conf /etc/pulse/
 COPY nginx.conf /etc/nginx/
 COPY webaudio.js /usr/share/novnc/core/
