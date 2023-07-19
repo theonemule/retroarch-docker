@@ -1,6 +1,6 @@
 # RETRTOARCH IN A CONTAINER PLAYABLE THROUGH A BROWSER
 
-[<img src="https://i.ytimg.com/vi/6gqXNirjNeU/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=6gqXNirjNeU "RETRTOARCH IN A CONTAINER")
+[<img src="retroarch.jpg" width="50%">](https://www.youtube.com/watch?v=6gqXNirjNeU "RETRTOARCH IN A CONTAINER")
 
 RetroArch in a container typically requires that you have some kind of specialized client to play the games over the network. Not anymore. This implementation uses a web browser as the client without the need for anything else installed on your client.
 
